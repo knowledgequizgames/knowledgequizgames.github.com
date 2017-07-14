@@ -1,2 +1,2 @@
-13/07/2017
-market://details?id=com.knowledgequizgames.fingerlovedetector
+14/07/2017
+market://details?id=com.knowledgequizgames.fingerlovedetector&referrer=utm_source%3Dfingerliedetector
