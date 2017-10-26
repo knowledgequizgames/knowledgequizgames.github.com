@@ -1,2 +1,2 @@
-20/09/2017
-market://details?id=com.knowledgequizgames.moodscanner&referrer=utm_source%3Dfingerlovedetector
+26/10/2017
+market://details?id=com.knowledgequizgames.personalitydetector&referrer=utm_source%3Dfingerlovedetector
