@@ -1,2 +1,2 @@
-16/12/2017
-market://details?id=com.knowledgequizgames.newyear&referrer=utm_source%3Dmoodscanner
+19/1/2018
+market://details?id=com.knowledgequizgames.emojiquiz&referrer=utm_source%3Dmoodscanner
