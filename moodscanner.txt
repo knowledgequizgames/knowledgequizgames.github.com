@@ -1,2 +1,2 @@
-19/1/2018
-market://details?id=com.knowledgequizgames.emojiquiz&referrer=utm_source%3Dmoodscanner
+05/04/2018
+market://details?id=com.knowledgequizgames.liedetector&referrer=utm_source%3Dmoodscanner
