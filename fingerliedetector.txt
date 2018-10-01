@@ -1,2 +1,2 @@
-19/1/2018
-market://details?id=com.knowledgequizgames.emojiquiz&referrer=utm_source%3Dfingerliedetector
+01/10/2018
+market://details?id=com.knowledgequizgames.moodscanner&referrer=utm_source%3Dfingerliedetector

@@ -1,2 +1,2 @@
-05/04/2018
-market://details?id=com.knowledgequizgames.liedetector&referrer=utm_source%3Dpersonalitydetector
+01/10/2018
+market://details?id=com.knowledgequizgames.fingerliedetector&referrer=utm_source%3Dpersonalitydetector
