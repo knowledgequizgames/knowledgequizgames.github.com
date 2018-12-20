@@ -1,5 +1,5 @@
-01/10/2018
-Scary Chat Stories-scarychatstory
-Lie Detector Prank-fingerliedetector
-WTF Button-wtf
-Fart Button-fartbutton
+20/12/2018
+Scary Chat Stories-com.knowledgequizgames.scarychatstory
+Lie Detector Prank-com.knowledgequizgames.fingerliedetector
+WTF Button-com.knowledgequizgames.wtf
+Fart Button-com.knowledgequizgames.fartbutton

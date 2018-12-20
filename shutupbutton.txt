@@ -1,5 +1,5 @@
-01/10/2018
-Lie Detector Prank-fingerliedetector
-Scary Sounds Button-horrorbutton
-Guess the Song-guessthesong
-WTF Button-wtf
+20/12/2018
+Food Quiz-com.quiznbutton.foodquiz
+Scary Sounds Button-com.knowledgequizgames.horrorbutton
+Guess the Song-com.knowledgequizgames.guessthesong
+WTF Button-com.knowledgequizgames.wtf

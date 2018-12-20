@@ -1,7 +1,7 @@
-01/10/2018
+20/12/2018
 multiple+interstitial
-Football Quiz-soccerquiz
-How Smart Are You-stupidtest
-Guess the Song-guessthesong
-Yes or No-yesorno
-stupidtest
+Food Quiz-com.quiznbutton.foodquiz
+How Smart Are You-com.knowledgequizgames.stupidtest
+Guess the Song-com.knowledgequizgames.guessthesong
+Yes or No-com.knowledgequizgames.yesorno
+com.knowledgequizgames.stupidtest

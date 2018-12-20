@@ -1,5 +1,5 @@
-01/10/2018
-Lie Detector Prank-fingerliedetector
-Shut Up Button-shutupbutton
-Scary Sounds Button-horrorbutton
-Fart Button-fartbutton
+20/12/2018
+Lie Detector Prank-com.knowledgequizgames.fingerliedetector
+Shut Up Button-com.knowledgequizgames.shutupbutton
+Scary Sounds Button-com.knowledgequizgames.horrorbutton
+Fart Button-com.knowledgequizgames.fartbutton

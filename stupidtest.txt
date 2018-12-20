@@ -1,7 +1,7 @@
-01/10/2018
+20/12/2018
 multiple+interstitial
-Riddles!-justriddles
-Guess the Song-guessthesong
-Yes or No-yesorno
-Football Quiz-soccerquiz
-guessthesong
+Riddles!-com.knowledgequizgames.justriddles
+Food Quiz-com.quiznbutton.foodquiz
+Guess the Song-com.knowledgequizgames.guessthesong
+Yes or No-com.knowledgequizgames.yesorno
+com.knowledgequizgames.guessthesong
