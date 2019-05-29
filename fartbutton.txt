@@ -1,5 +1,5 @@
-15/04/2019
-Stupid Test-com.knowledgequizgames.stupidtest
+29/05/2019
+Hamburger Button-com.quiznbutton.hamburger
 Riddles!-com.knowledgequizgames.justriddles
 WTF Button-com.knowledgequizgames.wtf
 Scary Sounds-com.knowledgequizgames.horrorbutton
