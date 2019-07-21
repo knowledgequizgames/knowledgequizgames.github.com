@@ -1,5 +1,5 @@
-29/05/2019
-Hamburger Button-com.quiznbutton.hamburger
+22/07/2019
+Fake Call Prank - com.quiznbutton.fakecall
 Shut Up Button-com.knowledgequizgames.shutupbutton
 Scary Sounds Button-com.knowledgequizgames.horrorbutton
 Fart Button-com.knowledgequizgames.fartbutton
