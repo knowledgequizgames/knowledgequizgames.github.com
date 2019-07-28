@@ -1,5 +1,5 @@
-29/05/2019
+28/07/2019
 Hamburger Button-com.quiznbutton.hamburger
 Riddles!-com.knowledgequizgames.justriddles
-WTF Button-com.knowledgequizgames.wtf
+Dad Jokes Bad Jokes-com.quiznbutton.dadjokes
 Scary Sounds-com.knowledgequizgames.horrorbutton
