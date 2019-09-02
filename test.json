@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "28/07/2019",
+	"lastUpdated": "29/07/2019",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -25,6 +25,9 @@
 		},
 		{
 			"package": "com.knowledgequizgames.yesorno"
+		},
+		{
+			"package": "com.new.me"
 		}
 	]
 }
