@@ -1,0 +1,30 @@
+{
+	"lastUpdated": "28/07/2019",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Guess the Music",
+			"package": "com.knowledgequizgames.guessthesong"
+		},
+		{
+			"name": "Stupid Quiz!",
+			"package": "com.knowledgequizgames.stupidquiz"
+		},
+		{
+			"name": "Yes or No?",
+			"package": "com.knowledgequizgames.yesorno"
+		},
+		{
+			"name": "Food Quiz!",
+			"package": "com.quiznbutton.foodquiz"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.knowledgequizgames.stupidquiz"
+		},
+		{
+			"package": "com.knowledgequizgames.yesorno"
+		}
+	]
+}
