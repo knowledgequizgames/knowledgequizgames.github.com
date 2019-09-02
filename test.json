@@ -8,7 +8,7 @@
 		},
 		{
 			"name": "Stupid Quiz!",
-			"package": "com.knowledgequizgames.stupidquiz"
+			"package": "com.knowledgequizgames.stupidtest"
 		},
 		{
 			"name": "Yes or No?",
@@ -21,7 +21,7 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.knowledgequizgames.stupidquiz"
+			"package": "com.knowledgequizgames.stupidtest"
 		},
 		{
 			"package": "com.knowledgequizgames.yesorno"
