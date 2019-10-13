@@ -1,0 +1,33 @@
+{
+	"lastUpdated": "12/10/2019",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Fake Call Prank",
+			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"name": "Dad Jokes Bad Jokes",
+			"package": "com.quiznbutton.dadjokes"
+		},
+		{
+			"name": "Scary Sounds Button",
+			"package": "com.knowledgequizgames.horrorbutton"
+		},
+		{
+			"name": "Hamburger Button",
+			"package": "com.quiznbutton.hamburger"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.quiznbutton.fakecallprank"
+		},
+		{
+			"package": "com.knowledgequizgames.fingerliedetector"
+		},
+		{
+			"package": "com.knowledgequizgames.horrorbutton"
+		}
+	]
+}
