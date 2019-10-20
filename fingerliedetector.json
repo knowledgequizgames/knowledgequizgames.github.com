@@ -1,0 +1,15 @@
+{
+	"lastUpdated": "20/10/2019",
+	"type": "interstitial",
+	"interstitial": [
+		{
+			"package": "com.quiznbutton.fakecallprank"
+		},
+		{
+			"package": "com.knowledgequizgames.shutupbutton"
+		},
+		{
+			"package": "com.knowledgequizgames.moodscanner"
+		}
+	]
+}
