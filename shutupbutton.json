@@ -1,7 +1,11 @@
 {
-	"lastUpdated": "12/10/2019",
+	"lastUpdated": "12/11/2019",
 	"type": "multiple+interstitial",
 	"multiple": [
+		{
+			"name": "Ok Boomer Sound!",
+			"package": "com.quiznbutton.boomer"
+		},
 		{
 			"name": "Fake Call Prank",
 			"package": "com.quiznbutton.fakecall"
@@ -13,13 +17,12 @@
 		{
 			"name": "Scary Sounds Button",
 			"package": "com.knowledgequizgames.horrorbutton"
-		},
-		{
-			"name": "Hamburger Button",
-			"package": "com.quiznbutton.hamburger"
 		}
 	],
 	"interstitial": [
+		{
+			"package": "com.quiznbutton.boomer"
+		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
 		},

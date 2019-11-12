@@ -1,7 +1,10 @@
 {
-	"lastUpdated": "20/10/2019",
+	"lastUpdated": "12/11/2019",
 	"type": "interstitial",
 	"interstitial": [
+		{
+			"package": "com.quiznbutton.boomer"
+		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
 		},
