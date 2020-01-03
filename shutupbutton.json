@@ -1,14 +1,14 @@
 {
-	"lastUpdated": "12/11/2019",
+	"lastUpdated": "03/01/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Ok Boomer Sound!",
-			"package": "com.quiznbutton.boomer"
-		},
-		{
 			"name": "Fake Call Prank",
 			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"name": "Ok Boomer Sound!",
+			"package": "com.quiznbutton.boomer"
 		},
 		{
 			"name": "Dad Jokes Bad Jokes",
@@ -21,13 +21,13 @@
 	],
 	"interstitial": [
 		{
+			"package": "com.knowledgequizgames.liedetector"
+		},
+		{
 			"package": "com.quiznbutton.boomer"
 		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
-		},
-		{
-			"package": "com.knowledgequizgames.fingerliedetector"
 		},
 		{
 			"package": "com.knowledgequizgames.horrorbutton"
