@@ -1,2 +1,2 @@
-01/10/2018
-market://details?id=com.knowledgequizgames.moodscanner&referrer=utm_source%3Dfingerliedetector
+30/01/2020
+market://details?id=com.quiznbutton.fakecall&referrer=utm_source%3Dfingerliedetector

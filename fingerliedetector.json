@@ -1,18 +1,21 @@
 {
-	"lastUpdated": "12/11/2019",
+	"lastUpdated": "30/01/2020",
 	"type": "interstitial",
 	"interstitial": [
 		{
 			"package": "com.quiznbutton.boomer"
 		},
 		{
-			"package": "com.quiznbutton.fakecallprank"
+			"package": "com.quiznbutton.fakecall"
 		},
 		{
 			"package": "com.knowledgequizgames.shutupbutton"
 		},
 		{
 			"package": "com.knowledgequizgames.moodscanner"
+		},
+		{
+			"package": "com.quiznbutton.fakecallprank"
 		}
 	]
 }

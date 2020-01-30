@@ -1,9 +1,9 @@
 {
-	"lastUpdated": "03/01/2020",
+	"lastUpdated": "30/01/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Fake Call Prank",
+			"name": "Prank Call Animals",
 			"package": "com.quiznbutton.fakecall"
 		},
 		{
@@ -22,6 +22,9 @@
 	"interstitial": [
 		{
 			"package": "com.knowledgequizgames.liedetector"
+		},
+		{
+			"package": "com.quiznbutton.fakecall"
 		},
 		{
 			"package": "com.quiznbutton.boomer"
