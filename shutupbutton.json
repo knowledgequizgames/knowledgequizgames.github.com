@@ -1,10 +1,14 @@
 {
-	"lastUpdated": "30/01/2020",
+	"lastUpdated": "25/03/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
 			"name": "Prank Call Animals",
 			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"name": "Hair Clipper Prank!",
+			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
 			"name": "Ok Boomer Sound!",
@@ -13,13 +17,12 @@
 		{
 			"name": "Dad Jokes Bad Jokes",
 			"package": "com.quiznbutton.dadjokes"
-		},
-		{
-			"name": "Scary Sounds Button",
-			"package": "com.knowledgequizgames.horrorbutton"
 		}
 	],
 	"interstitial": [
+		{
+			"package": "com.quiznbutton.hairclipperprank"
+		},
 		{
 			"package": "com.knowledgequizgames.liedetector"
 		},
@@ -31,9 +34,6 @@
 		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
-		},
-		{
-			"package": "com.knowledgequizgames.horrorbutton"
 		}
 	]
 }
