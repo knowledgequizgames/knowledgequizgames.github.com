@@ -1,0 +1,39 @@
+{
+	"lastUpdated": "25/03/2020",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Prank Call Animals",
+			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"name": "Hair Clipper Prank!",
+			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"name": "Ok Boomer Sound!",
+			"package": "com.quiznbutton.boomer"
+		},
+		{
+			"name": "Dad Jokes Bad Jokes",
+			"package": "com.quiznbutton.dadjokes"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"package": "com.knowledgequizgames.liedetector"
+		},
+		{
+			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"package": "com.quiznbutton.boomer"
+		},
+		{
+			"package": "com.quiznbutton.fakecallprank"
+		}
+	]
+}
