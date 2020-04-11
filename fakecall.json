@@ -1,14 +1,14 @@
 {
-	"lastUpdated": "25/03/2020",
+	"lastUpdated": "11/04/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Prank Call Animals",
-			"package": "com.quiznbutton.fakecall"
-		},
-		{
 			"name": "Hair Clipper Prank!",
 			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"name": "Shut Up Button!",
+			"package": "com.knowledgequizgames.shutupbutton"
 		},
 		{
 			"name": "Ok Boomer Sound!",
@@ -27,10 +27,7 @@
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
-			"package": "com.quiznbutton.fakecall"
-		},
-		{
-			"package": "com.quiznbutton.boomer"
+			"package": "com.knowledgequizgames.shutupbutton"
 		},
 		{
 			"package": "com.quiznbutton.fakecallprank"

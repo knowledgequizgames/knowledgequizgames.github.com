@@ -1,18 +1,18 @@
 {
-	"lastUpdated": "25/03/2020",
+	"lastUpdated": "11/04/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
-		{
-			"name": "Prank Call Animals",
-			"package": "com.quiznbutton.fakecall"
-		},
 		{
 			"name": "Hair Clipper Prank!",
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"name": "Ok Boomer Sound!",
-			"package": "com.quiznbutton.boomer"
+			"name": "Shut Up Button!",
+			"package": "com.knowledgequizgames.shutupbutton"
+		},
+		{
+			"name": "Lie Detector Prank",
+			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
 			"name": "Dad Jokes Bad Jokes",
@@ -31,9 +31,6 @@
 		},
 		{
 			"package": "com.quiznbutton.boomer"
-		},
-		{
-			"package": "com.quiznbutton.fakecallprank"
 		}
 	]
 }
