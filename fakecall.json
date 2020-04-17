@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "11/04/2020",
+	"lastUpdated": "17/04/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -7,8 +7,8 @@
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"name": "Shut Up Button!",
-			"package": "com.knowledgequizgames.shutupbutton"
+			"name": "Yeet Button!",
+			"package": "com.quiznbutton.yeet"
 		},
 		{
 			"name": "Ok Boomer Sound!",
@@ -22,6 +22,9 @@
 	"interstitial": [
 		{
 			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"package": "com.quiznbutton.yeet"
 		},
 		{
 			"package": "com.knowledgequizgames.liedetector"

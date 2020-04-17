@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "25/03/2020",
+	"lastUpdated": "17/04/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -7,12 +7,12 @@
 			"package": "com.quiznbutton.fakecall"
 		},
 		{
-			"name": "Hair Clipper Prank!",
-			"package": "com.quiznbutton.hairclipperprank"
+			"name": "Yeet Button!",
+			"package": "com.quiznbutton.yeet"
 		},
 		{
-			"name": "Ok Boomer Sound!",
-			"package": "com.quiznbutton.boomer"
+			"name": "Hair Clipper Prank!",
+			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
 			"name": "Dad Jokes Bad Jokes",
@@ -24,16 +24,13 @@
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
+			"package": "com.quiznbutton.yeet"
+		},
+		{
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
 			"package": "com.quiznbutton.fakecall"
-		},
-		{
-			"package": "com.quiznbutton.boomer"
-		},
-		{
-			"package": "com.quiznbutton.fakecallprank"
 		}
 	]
 }
