@@ -1,0 +1,30 @@
+{
+	"lastUpdated": "21/04/2020",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Guess the Song!",
+			"package": "com.knowledgequizgames.guessthesong"
+		},
+		{
+			"name": "Food Quiz",
+			"package": "com.quiznbutton.foodquiz"
+		},
+		{
+			"name": "Stupid Test?",
+			"package": "com.knowledgequizgames.stupidtest"
+		},
+		{
+			"name": "Dad Jokes Bad Jokes",
+			"package": "com.quiznbutton.dadjokes"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.knowledgequizgames.stupidtest"
+		},
+		{
+			"package": "com.knowledgequizgames.guessthesong"
+		}
+	]
+}
