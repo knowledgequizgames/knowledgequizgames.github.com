@@ -3,10 +3,10 @@
 	"type": "interstitial",
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.hairclipperprank"
+			"package": "com.quiznbutton.yeet"
 		},
 		{
-			"package": "com.quiznbutton.yeet"
+			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
 			"package": "com.quiznbutton.fakecall"
