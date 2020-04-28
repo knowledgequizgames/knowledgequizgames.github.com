@@ -1,0 +1,33 @@
+{
+	"lastUpdated": "28/04/2020",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Yeet Button!",
+			"package": "com.quiznbutton.yeet"
+		},
+		{
+			"name": "Prank Call Animals",
+			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"name": "Lie Detector Prank",
+			"package": "com.knowledgequizgames.liedetector"
+		},
+		{
+			"name": "Dad Jokes Bad Jokes",
+			"package": "com.quiznbutton.dadjokes"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.quiznbutton.yeet"
+		},
+		{
+			"package": "com.knowledgequizgames.shutupbutton"
+		},
+		{
+			"package": "com.quiznbutton.boomer"
+		}
+	]
+}

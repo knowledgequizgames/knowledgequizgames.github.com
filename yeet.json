@@ -1,0 +1,33 @@
+{
+	"lastUpdated": "28/04/2020",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Hair Clipper Prank!",
+			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"name": "Fart Button!",
+			"package": "com.knowledgequizgames.fartbutton"
+		},
+		{
+			"name": "Lie Detector Prank",
+			"package": "com.knowledgequizgames.liedetector"
+		},
+		{
+			"name": "Dad Jokes Bad Jokes",
+			"package": "com.quiznbutton.dadjokes"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"package": "com.knowledgequizgames.shutupbutton"
+		},
+		{
+			"package": "com.quiznbutton.boomer"
+		}
+	]
+}
