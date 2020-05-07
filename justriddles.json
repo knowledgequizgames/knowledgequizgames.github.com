@@ -1,14 +1,14 @@
 {
-	"lastUpdated": "21/04/2020",
+	"lastUpdated": "07/05/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Guess the Song!",
-			"package": "com.knowledgequizgames.guessthesong"
+			"name": "Brain Test - Puzzles!",
+			"package": "com.quiznbutton.brainout"
 		},
 		{
-			"name": "Food Quiz",
-			"package": "com.quiznbutton.foodquiz"
+			"name": "Guess the Song!",
+			"package": "com.knowledgequizgames.guessthesong"
 		},
 		{
 			"name": "Stupid Test?",
@@ -20,6 +20,9 @@
 		}
 	],
 	"interstitial": [
+		{
+			"package": "com.quiznbutton.brainout"
+		},
 		{
 			"package": "com.knowledgequizgames.stupidtest"
 		},

@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "28/04/2020",
+	"lastUpdated": "07/05/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -15,8 +15,8 @@
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
-			"name": "Dad Jokes Bad Jokes",
-			"package": "com.quiznbutton.dadjokes"
+			"name": "Brain Test - Puzzles!",
+			"package": "com.quiznbutton.brainout"
 		}
 	],
 	"interstitial": [

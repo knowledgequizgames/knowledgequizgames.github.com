@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "28/04/2020",
+	"lastUpdated": "07/05/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -11,8 +11,8 @@
 			"package": "com.quiznbutton.yeet"
 		},
 		{
-			"name": "Ok Boomer Sound!",
-			"package": "com.quiznbutton.boomer"
+			"name": "Brain Test - Puzzles!",
+			"package": "com.quiznbutton.brainout"
 		},
 		{
 			"name": "Dad Jokes Bad Jokes",
