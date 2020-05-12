@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "24/04/2020",
+	"lastUpdated": "12/05/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -7,30 +7,30 @@
 			"package": "com.quiznbutton.fakecall"
 		},
 		{
-			"name": "Yeet Button!",
-			"package": "com.quiznbutton.yeet"
+			"name": "Big Brain Test - Puzzles",
+			"package": "com.quiznbutton.brainout"
 		},
 		{
 			"name": "Hair Clipper Prank!",
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"name": "Dad Jokes Bad Jokes",
-			"package": "com.quiznbutton.dadjokes"
+			"name": "Yeet Button!",
+			"package": "com.quiznbutton.yeet"
 		}
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.yeet"
+			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"package": "com.knowledgequizgames.liedetector"
+			"package": "com.quiznbutton.brainout"
 		},
 		{
-			"package": "com.quiznbutton.fakecall"
+			"package": "com.quiznbutton.yeet"
 		}
 	]
 }

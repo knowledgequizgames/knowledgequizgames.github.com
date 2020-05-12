@@ -1,2 +1,2 @@
-01/05/2020
-market://details?id=com.quiznbutton.yeet&referrer=utm_source%liedetector
+12/05/2020
+market://details?id=com.knowledgequizgames.shutupbutton&referrer=utm_source%liedetector
