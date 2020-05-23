@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "28/04/2020",
+	"lastUpdated": "23/05/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -21,7 +21,7 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.yeet"
+			"package": "com.knowledgequizgames.justriddles"
 		},
 		{
 			"package": "com.knowledgequizgames.shutupbutton"
