@@ -1,9 +1,9 @@
 {
-	"lastUpdated": "28/04/2020",
+	"lastUpdated": "10/06/2020",
 	"type": "interstitial",
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.yeet"
+			"package": "com.knowledgequizgames.fartbutton"
 		},
 		{
 			"package": "com.quiznbutton.hairclipperprank"

@@ -1,10 +1,10 @@
 {
-	"lastUpdated": "23/05/2020",
+	"lastUpdated": "10/06/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Yeet Button!",
-			"package": "com.quiznbutton.yeet"
+			"name": "Fart Button!",
+			"package": "com.knowledgequizgames.fartbutton"
 		},
 		{
 			"name": "Prank Call Animals",
@@ -21,7 +21,7 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.knowledgequizgames.justriddles"
+			"package": "com.quiznbutton.fakecall"
 		},
 		{
 			"package": "com.knowledgequizgames.shutupbutton"
