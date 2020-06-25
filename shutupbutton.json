@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "10/06/2020",
+	"lastUpdated": "25/06/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -27,13 +27,13 @@
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
+			"package": "com.knowledgequizgames.fartbutton"
+		},
+		{
 			"package": "com.knowledgequizgames.justriddles"
 		},
 		{
 			"package": "com.quiznbutton.brainout"
-		},
-		{
-			"package": "com.quiznbutton.yeet"
 		}
 	]
 }

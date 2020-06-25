@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "07/05/2020",
+	"lastUpdated": "25/06/2020",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -15,19 +15,19 @@
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
-			"name": "Brain Test - Puzzles!",
-			"package": "com.quiznbutton.brainout"
+			"name": "Shut Up Button!",
+			"package": "com.knowledgequizgames.shutupbutton"
 		}
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.hairclipperprank"
-		},
-		{
 			"package": "com.knowledgequizgames.shutupbutton"
 		},
 		{
-			"package": "com.quiznbutton.boomer"
+			"package": "com.knowledgequizgames.fartbutton"
+		},
+		{
+			"package": "com.quiznbutton.hairclipperprank"
 		}
 	]
 }
