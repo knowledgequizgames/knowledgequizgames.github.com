@@ -1,12 +1,12 @@
 {
-	"lastUpdated": "24/07/2020",
+	"lastUpdated": "01/01/2022",
 	"type": "interstitial",
 	"interstitial": [
 		{
-			"package": "com.knowledgequizgames.scarychatstory"
+			"package": "com.knowledgequizgames.fingerliedetector"
 		},
 		{
-			"package": "com.knowledgequizgames.horrorbutton"
+			"package": "com.knowledgequizgames.shutupbutton"
 		}
 	]
 }
