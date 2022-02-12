@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "22/08/2020",
+	"lastUpdated": "12/02/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -7,8 +7,8 @@
 			"package": "com.quiznbutton.fakecall"
 		},
 		{
-			"name": "Big Brain Test - Puzzles",
-			"package": "com.quiznbutton.brainout"
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"name": "Hair Clipper Prank!",
@@ -21,13 +21,16 @@
 	],
 	"interstitial": [
 		{
+			"package": "com.knowledgequizgames.fartbutton"
+		},
+		{
+			"package": "com.quiznbutton.antistress"
+		},
+		{
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
 			"package": "com.quiznbutton.hairclipperprank"
-		},
-		{
-			"package": "com.knowledgequizgames.fartbutton"
 		},
 		{
 			"package": "com.quiznbutton.fakecall"

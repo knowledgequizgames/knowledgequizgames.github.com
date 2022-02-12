@@ -1,10 +1,14 @@
 {
-	"lastUpdated": "07/05/2020",
+	"lastUpdated": "12/02/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
 			"name": "Brain Test - Puzzles!",
 			"package": "com.quiznbutton.brainout"
+		},
+		{
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"name": "Guess the Song!",
@@ -13,13 +17,12 @@
 		{
 			"name": "Riddles - Just Riddles",
 			"package": "com.knowledgequizgames.justriddles"
-		},
-		{
-			"name": "Dad Jokes Bad Jokes",
-			"package": "com.quiznbutton.dadjokes"
 		}
 	],
 	"interstitial": [
+		{
+			"package": "com.quiznbutton.antistress"
+		},
 		{
 			"package": "com.quiznbutton.brainout"
 		},

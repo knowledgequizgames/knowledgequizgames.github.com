@@ -1,10 +1,14 @@
 {
-	"lastUpdated": "10/06/2020",
+	"lastUpdated": "12/02/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
 			"name": "Hair Clipper Prank!",
 			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"name": "Fart Button!",
@@ -13,10 +17,6 @@
 		{
 			"name": "Brain Test - Puzzles!",
 			"package": "com.quiznbutton.brainout"
-		},
-		{
-			"name": "Dad Jokes Bad Jokes",
-			"package": "com.quiznbutton.dadjokes"
 		}
 	],
 	"interstitial": [
@@ -24,7 +24,7 @@
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"package": "com.knowledgequizgames.justriddles"
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"package": "com.quiznbutton.brainout"

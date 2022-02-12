@@ -1,10 +1,14 @@
 {
-	"lastUpdated": "07/05/2020",
+	"lastUpdated": "12/02/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
 			"name": "Brain Test - Puzzles!",
 			"package": "com.quiznbutton.brainout"
+		},
+		{
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"name": "Guess the Song!",
@@ -13,10 +17,6 @@
 		{
 			"name": "Stupid Test?",
 			"package": "com.knowledgequizgames.stupidtest"
-		},
-		{
-			"name": "Dad Jokes Bad Jokes",
-			"package": "com.quiznbutton.dadjokes"
 		}
 	],
 	"interstitial": [
@@ -25,6 +25,9 @@
 		},
 		{
 			"package": "com.knowledgequizgames.stupidtest"
+		},
+		{
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"package": "com.knowledgequizgames.guessthesong"
