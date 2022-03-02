@@ -1,0 +1,39 @@
+{
+	"lastUpdated": "01/03/2022",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Fart Button!",
+			"package": "com.knowledgequizgames.fartbutton"
+		},
+		{
+			"name": "Prank Call Animals",
+			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"name": "Antistress!",
+			"package": "com.quiznbutton.antistress"
+		},
+		{
+			"name": "Ghost Detector Prank!",
+			"package": "com.knowledgequizgames.ghostdetectorprank"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.quiznbutton.antistress"
+		},
+		{
+			"package": "com.knowledgequizgames.shutupbutton"
+		},
+		{
+			"package": "com.quiznbutton.hairclipperprank"
+		},
+		{
+			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"package": "com.quiznbutton.fakecallprank"
+		}
+	]
+}
