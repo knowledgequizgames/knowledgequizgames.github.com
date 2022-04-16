@@ -1,14 +1,10 @@
 {
-	"lastUpdated": "12/02/2022",
+	"lastUpdated": "16/04/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
 			"name": "Brain Test - Puzzles!",
 			"package": "com.quiznbutton.brainout"
-		},
-		{
-			"name": "Antistress Pop It!",
-			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"name": "Guess the Song!",
@@ -17,14 +13,18 @@
 		{
 			"name": "Riddles - Just Riddles",
 			"package": "com.knowledgequizgames.justriddles"
+		},
+		{
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
 		}
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.antistress"
+			"package": "com.quiznbutton.brainout"
 		},
 		{
-			"package": "com.quiznbutton.brainout"
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"package": "com.knowledgequizgames.justriddles"

@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "12/02/2022",
+	"lastUpdated": "16/04/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -7,16 +7,16 @@
 			"package": "com.quiznbutton.brainout"
 		},
 		{
-			"name": "Antistress Pop It!",
-			"package": "com.quiznbutton.antistress"
-		},
-		{
 			"name": "Guess the Song!",
 			"package": "com.knowledgequizgames.guessthesong"
 		},
 		{
-			"name": "Stupid Test?",
+			"name": "Are You Smart?",
 			"package": "com.knowledgequizgames.stupidtest"
+		},
+		{
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
 		}
 	],
 	"interstitial": [

@@ -1,6 +1,6 @@
 {
-	"lastUpdated": "01/03/2022",
-	"type": "multiple+interstitial",
+	"lastUpdated": "16/04/2022",
+	"type": "interstitial",
 	"multiple": [
 		{
 			"name": "Fart Button!",
@@ -21,9 +21,6 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.antistress"
-		},
-		{
 			"package": "com.knowledgequizgames.shutupbutton"
 		},
 		{
@@ -31,6 +28,9 @@
 		},
 		{
 			"package": "com.quiznbutton.fakecall"
+		},
+		{
+			"package": "com.knowledgequizgames.fartbutton"
 		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
