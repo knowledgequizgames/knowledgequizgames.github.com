@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "12/02/2022",
+	"lastUpdated": "16/07/2022",
 	"type": "interstitial",
 	"interstitial": [
 		{
@@ -9,7 +9,7 @@
 			"package": "com.knowledgequizgames.shutupbutton"
 		},
 		{
-			"package": "com.quiznbutton.antistress"
+			"package": "com.quiznbutton.brokenscreen"
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "10/06/2020",
+	"lastUpdated": "16/07/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -15,8 +15,8 @@
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
-			"name": "Brain Test - Puzzles!",
-			"package": "com.quiznbutton.brainout"
+			"name": "Broken Screen Prank!",
+			"package": "com.quiznbutton.brokenscreen"
 		}
 	],
 	"interstitial": [
@@ -27,7 +27,7 @@
 			"package": "com.knowledgequizgames.justriddles"
 		},
 		{
-			"package": "com.quiznbutton.brainout"
+			"package": "com.quiznbutton.brokenscreen"
 		},
 		{
 			"package": "com.knowledgequizgames.liedetector"

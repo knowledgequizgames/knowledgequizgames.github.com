@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "16/04/2022",
+	"lastUpdated": "16/07/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -21,6 +21,9 @@
 	],
 	"interstitial": [
 		{
+			"package": "com.quiznbutton.brokenscreen"
+		},
+		{
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
@@ -31,9 +34,6 @@
 		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
-		},
-		{
-			"package": "com.quiznbutton.antistress"
 		}
 	]
 }
