@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "16/07/2022",
+	"lastUpdated": "10/11/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -7,8 +7,8 @@
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"name": "Broken Screen Prank!",
-			"package": "com.quiznbutton.brokenscreen"
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
 		},
 		{
 			"name": "Fart Button!",
@@ -24,16 +24,16 @@
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"package": "com.quiznbutton.brokenscreen"
-		},
-		{
-			"package": "com.quiznbutton.brainout"
-		},
-		{
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
 			"package": "com.knowledgequizgames.shutupbutton"
+		}
+		{
+			"package": "com.quiznbutton.brainout"
+		},
+		{
+			"package": "com.quiznbutton.brokenscreen"
 		}
 	]
 }

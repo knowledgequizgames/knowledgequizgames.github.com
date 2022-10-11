@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "16/07/2022",
+	"lastUpdated": "10/11/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -20,9 +20,6 @@
 		}
 	],
 	"interstitial": [
-		{
-			"package": "com.quiznbutton.brokenscreen"
-		},
 		{
 			"package": "com.knowledgequizgames.liedetector"
 		},

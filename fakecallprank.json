@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "16/07/2022",
+	"lastUpdated": "10/11/2022",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -15,8 +15,8 @@
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
-			"name": "Broken Screen Prank!",
-			"package": "com.quiznbutton.brokenscreen"
+			"name": "Scary Stories!",
+			"package": "com.knowledgequizgames.scarychatstory"
 		}
 	],
 	"interstitial": [
@@ -27,13 +27,13 @@
 			"package": "com.knowledgequizgames.justriddles"
 		},
 		{
-			"package": "com.quiznbutton.brokenscreen"
+			"package": "com.quiznbutton.brainout"
 		},
 		{
 			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
-			"package": "com.quiznbutton.boomer"
+			"package": "com.quiznbutton.brokenscreen"
 		}
 	]
 }
