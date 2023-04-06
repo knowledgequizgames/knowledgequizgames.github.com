@@ -28,6 +28,9 @@
 		},
 		{
 			"package": "com.quiznbutton.foodquiz"
+		},
+		{
+			"package": "com.knowledgequizgames.guessthesong"
 		}
 	]
 }
