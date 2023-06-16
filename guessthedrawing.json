@@ -1,0 +1,33 @@
+{
+	"lastUpdated": "16/06/2023",
+	"type": "multiple+interstitial",
+	"multiple": [
+		{
+			"name": "Riddles!",
+			"package": "com.knowledgequizgames.justriddles"
+		},
+		{
+			"name": "Guess the Song!",
+			"package": "com.knowledgequizgames.guessthesong"
+		},
+		{
+			"name": "Are You Smart?",
+			"package": "com.knowledgequizgames.stupidtest"
+		},
+		{
+			"name": "Antistress Pop It!",
+			"package": "com.quiznbutton.antistress"
+		}
+	],
+	"interstitial": [
+		{
+			"package": "com.knowledgequizgames.stupidtest"
+		},
+		{
+			"package": "com.quiznbutton.antistress"
+		},
+		{
+			"package": "com.knowledgequizgames.guessthesong"
+		}
+	]
+}
