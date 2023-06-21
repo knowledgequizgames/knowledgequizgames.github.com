@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "10/11/2022",
+	"lastUpdated": "21/06/2023",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -21,16 +21,16 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.hairclipperprank"
-		},
-		{
 			"package": "com.knowledgequizgames.liedetector"
+		},
+		{	
+			"package": "com.knowledgequizgames.ghostdetectorprank"
 		},
 		{
 			"package": "com.knowledgequizgames.shutupbutton"
-		}
+		},
 		{
-			"package": "com.quiznbutton.brainout"
+			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
 			"package": "com.quiznbutton.brokenscreen"
