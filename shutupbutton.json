@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "16/04/2022",
+	"lastUpdated": "06/07/2023",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -33,7 +33,7 @@
 			"package": "com.quiznbutton.fakecall"
 		},
 		{
-			"package": "com.quiznbutton.antistress"
+			"package": "com.quiznbutton.guessthedrawing"
 		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
