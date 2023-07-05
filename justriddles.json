@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "16/04/2022",
+	"lastUpdated": "06/07/2023",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -21,7 +21,7 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.brainout"
+			"package": "com.quiznbutton.guessthedrawing"
 		},
 		{
 			"package": "com.knowledgequizgames.stupidtest"
