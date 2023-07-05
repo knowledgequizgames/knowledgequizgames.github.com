@@ -1,10 +1,10 @@
 {
-	"lastUpdated": "16/04/2022",
+	"lastUpdated": "06/07/2023",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Brain Test - Puzzles!",
-			"package": "com.quiznbutton.brainout"
+			"name": "Guess the Drawing!",
+			"package": "com.quiznbutton.guessthedrawing"
 		},
 		{
 			"name": "Guess the Song!",
@@ -21,7 +21,7 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.brainout"
+			"package": "com.quiznbutton.guessthedrawing"
 		},
 		{
 			"package": "com.quiznbutton.antistress"
