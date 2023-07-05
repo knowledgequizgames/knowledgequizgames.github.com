@@ -3,8 +3,8 @@
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Brain Test - Puzzles!",
-			"package": "com.quiznbutton.brainout"
+			"name": "Guess the Drawing!",
+			"package": "com.quiznbutton.guessthedrawing"
 		},
 		{
 			"name": "Guess the Song!",
