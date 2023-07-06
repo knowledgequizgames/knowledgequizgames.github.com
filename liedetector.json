@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "06/07/2023",
+	"lastUpdated": "07/07/2023",
 	"type": "interstitial",
 	"multiple": [
 		{
@@ -24,13 +24,13 @@
 			"package": "com.knowledgequizgames.shutupbutton"
 		},
 		{
+			"package": "com.knowledgequizgames.ghostdetectorprank"
+		},
+		{
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
 			"package": "com.quiznbutton.fakecall"
-		},
-		{
-			"package": "com.knowledgequizgames.ghostdetectorprank"
 		},
 		{
 			"package": "com.quiznbutton.fakecallprank"
