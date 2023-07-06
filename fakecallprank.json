@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "06/07/2023",
+	"lastUpdated": "07/07/2023",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
@@ -24,10 +24,10 @@
 			"package": "com.quiznbutton.hairclipperprank"
 		},
 		{
-			"package": "com.knowledgequizgames.justriddles"
+			"package": "com.quiznbutton.guessthedrawing"
 		},
 		{
-			"package": "com.quiznbutton.guessthedrawing"
+			"package": "com.knowledgequizgames.justriddles"
 		},
 		{
 			"package": "com.knowledgequizgames.liedetector"
