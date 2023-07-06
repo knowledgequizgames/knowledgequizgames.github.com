@@ -1,7 +1,11 @@
 {
-	"lastUpdated": "06/07/2023",
+	"lastUpdated": "07/07/2023",
 	"type": "multiple+interstitial",
 	"multiple": [
+		{
+			"name": "Guess the Drawing!",
+			"package": "com.quiznbutton.guessthedrawing"
+		},
 		{
 			"name": "Hair Clipper Prank!",
 			"package": "com.quiznbutton.hairclipperprank"
@@ -13,18 +17,17 @@
 		{
 			"name": "Fart Button!",
 			"package": "com.knowledgequizgames.fartbutton"
-		},
-		{
-			"name": "Guess the Drawing!",
-			"package": "com.quiznbutton.guessthedrawing"
 		}
 	],
 	"interstitial": [
 		{
-			"package": "com.knowledgequizgames.liedetector"
+			"package": "com.quiznbutton.guessthedrawing"
+		},
+		{
+			"package": "com.knowledgequizgames.ghostdetectorprank"
 		},
 		{	
-			"package": "com.knowledgequizgames.ghostdetectorprank"
+			"package": "com.knowledgequizgames.liedetector"
 		},
 		{
 			"package": "com.knowledgequizgames.shutupbutton"
