@@ -1,7 +1,11 @@
 {
-	"lastUpdated": "07/07/2023",
+	"lastUpdated": "02/11/2024",
 	"type": "interstitial",
 	"multiple": [
+		{
+			"name": "Guess the Word!",
+			"package": "com.idleboots.wordable"
+		},
 		{
 			"name": "Fart Button!",
 			"package": "com.knowledgequizgames.fartbutton"
@@ -9,10 +13,6 @@
 		{
 			"name": "Prank Call Animals",
 			"package": "com.quiznbutton.fakecall"
-		},
-		{
-			"name": "Guess the Drawing!",
-			"package": "com.quiznbutton.guessthedrawing"
 		},
 		{
 			"name": "Ghost Detector Prank!",
@@ -25,6 +25,9 @@
 		},
 		{
 			"package": "com.knowledgequizgames.ghostdetectorprank"
+		},
+		{
+			"package": "com.knowledgequizgames.wordable"
 		},
 		{
 			"package": "com.quiznbutton.hairclipperprank"

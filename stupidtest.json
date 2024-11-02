@@ -1,14 +1,10 @@
 {
-	"lastUpdated": "06/07/2023",
+	"lastUpdated": "02/11/2024",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Guess the Drawing!",
-			"package": "com.quiznbutton.guessthedrawing"
-		},
-		{
-			"name": "Guess the Song!",
-			"package": "com.knowledgequizgames.guessthesong"
+			"name": "Guess the Word!",
+			"package": "com.idleboots.wordable"
 		},
 		{
 			"name": "Riddles - Just Riddles",
@@ -18,10 +14,14 @@
 			"name": "Antistress Pop It!",
 			"package": "com.quiznbutton.antistress"
 		}
+		{
+			"name": "Guess the Song!",
+			"package": "com.knowledgequizgames.guessthesong"
+		},
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.guessthedrawing"
+			"package": "com.idleboots.wordable"
 		},
 		{
 			"package": "com.quiznbutton.antistress"

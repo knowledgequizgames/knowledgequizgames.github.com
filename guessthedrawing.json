@@ -1,7 +1,11 @@
 {
-	"lastUpdated": "16/06/2023",
+	"lastUpdated": "02/11/2024",
 	"type": "multiple+interstitial",
 	"multiple": [
+		{
+			"name": "Guess the Word!",
+			"package": "com.idleboots.wordable"
+		},
 		{
 			"name": "Riddles!",
 			"package": "com.knowledgequizgames.justriddles"
@@ -13,18 +17,14 @@
 		{
 			"name": "Are You Smart?",
 			"package": "com.knowledgequizgames.stupidtest"
-		},
-		{
-			"name": "Antistress Pop It!",
-			"package": "com.quiznbutton.antistress"
 		}
 	],
 	"interstitial": [
 		{
-			"package": "com.knowledgequizgames.stupidtest"
+			"package": "com.idleboots.wordable"
 		},
 		{
-			"package": "com.quiznbutton.antistress"
+			"package": "com.knowledgequizgames.stupidtest"
 		},
 		{
 			"package": "com.knowledgequizgames.guessthesong"

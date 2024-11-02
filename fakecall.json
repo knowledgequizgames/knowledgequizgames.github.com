@@ -1,10 +1,10 @@
 {
-	"lastUpdated": "07/07/2023",
+	"lastUpdated": "02/11/2024",
 	"type": "multiple+interstitial",
 	"multiple": [
 		{
-			"name": "Guess the Drawing!",
-			"package": "com.quiznbutton.guessthedrawing"
+			"name": "Guess the Word!",
+			"package": "com.idleboots.wordable"
 		},
 		{
 			"name": "Hair Clipper Prank!",
@@ -21,7 +21,7 @@
 	],
 	"interstitial": [
 		{
-			"package": "com.quiznbutton.guessthedrawing"
+			"package": "com.idleboots.wordable"
 		},
 		{
 			"package": "com.knowledgequizgames.ghostdetectorprank"
